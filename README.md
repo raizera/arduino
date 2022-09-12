@@ -6,5 +6,7 @@ Código e Circuito 1:
 <img src="/img/code01.PNG" alt="Code01"/>
 
 Código e Circuito 2:
-<img src="/img/code02.PNG" alt="Code01"/>
+<img src="/img/code02.PNG" alt="Code02"/>
 
+Código e Circuito 3:
+<img src="/img/code03.PNG" alt="Code03"/>
