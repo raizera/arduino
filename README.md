@@ -4,3 +4,7 @@ Este repositório é parte de um projeto chamado clube do arduino, onde aprender
 
 Código e Circuito 1:
 <img src="/img/code01.PNG" alt="Code01"/>
+
+Código e Circuito 2:
+<img src="/img/code02.PNG" alt="Code01"/>
+
