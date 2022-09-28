@@ -9,14 +9,12 @@ int valor = 0;
 void setup()
 {
   pinMode(LED, OUTPUT);
-  pinMode(POT, INPUT);
 }
 
 void loop()
 {
   valor = analogRead(POT);
-  digitalWrite(LED, HIGH);
-  delay(valor);
-  digitalWrite(LED, LOW);
-  delay(valor);
+  if(valor > 0){
+  analogWrite(LED, (valor/4));
+  }
 }
