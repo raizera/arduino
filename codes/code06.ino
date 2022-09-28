@@ -20,6 +20,7 @@ void loop(){
       estadoLED = 1;
 
     else
+      estadoLED = 0;
 
    }
   
