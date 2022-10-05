@@ -45,9 +45,10 @@ pinMode(buzzer, OUTPUT);
 void loop()
 {
   for(int i = 0; i < numNotas; i++){
-  tone(buzzer, notas[i], 500);	// 1200 é a frequência do som.
+  tone(buzzer, notas[i]);
+    delay(500);
   }
-  noTone(buzzer)
+  noTone(buzzer);
 }
 
 /*
