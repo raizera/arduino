@@ -23,3 +23,10 @@ void loop()
   noTone(buzzer);
   delay(1000);			// desliga o buzzer.
 }
+
+
+/*
+A função tone() pode receber dois ou três parâmetros,
+de modo que o terceiro é o tempo de duração do sinal sonoro.
+Faça o teste mudando o código (altere a função tone).
+*/
